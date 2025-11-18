@@ -1,0 +1,15 @@
+Here is a clear and simple explanation of the responsibilities of Front-End, Back-End, and Database in any software system:
+
+Front-End Responsibilities
+
+The front-end is responsible for everything the user sees and interacts with on the screen. It handles the design, layout, and user interface behavior such as buttons, menus, forms, animations, and overall user experience. Front-end developers make sure the application is visually appealing, easy to use, responsive on all devices, and communicates properly with the back-end to display or send data.
+
+Back-End Responsibilities
+
+The back-end is responsible for the behind-the-scenes logic that powers the application. It processes requests from the front-end, applies business rules, performs calculations, and decides what data should be stored or retrieved. Back-end developers manage APIs, authentication, server logic, integrations with external services, and ensure performance, security, and reliability of the application.
+
+Database Responsibilities
+
+The database is responsible for storing, organizing, and retrieving data needed by the system. It ensures that information such as user accounts, products, transactions, messages, or files is saved in a structured way and remains secure, consistent, and accessible. Database systems manage data queries, relationships, backups, performance optimization, and protection against data loss or unauthorized access.
+
+If you'd like, I can also explain how these three work together in one simple flow.
