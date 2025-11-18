@@ -161,3 +161,28 @@ LINQ is used inside EF Core queries to filter and manipulate data.
 EF Core translates LINQ → SQL and sends it to SQL Server.
 
 SQL Server returns data → EF Core converts it into C# objects → Blazor displays it.
+
+
+
+
+
+
+
+
+
+
+C#
+
+C# is a statically typed and compiled language used mainly in the .NET ecosystem. It is compiled into Intermediate Language (IL), which the .NET runtime (CLR) converts into fast, optimized machine code using Just-In-Time compilation. This gives C# very good performance, generally faster than Python and often comparable to Java. C# is widely used in enterprise systems, desktop applications, cloud services, and especially in game development with Unity. Its advantages include strong type safety, powerful tooling (Visual Studio, Rider), excellent async features, and a rich library ecosystem. The latest version as of 2025 is C# 12.0. However, C# requires the .NET runtime and is somewhat less cross-platform outside the Microsoft ecosystem, although .NET Core has improved this significantly.
+
+Java
+
+Java is also a statically typed, compiled language, but it runs on the Java Virtual Machine (JVM). Java code is compiled into bytecode, and the JVM uses JIT compilation to optimize performance during execution. Java is known for being fast, reliable, and highly scalable, making it ideal for enterprise back-end systems, Android development, and large distributed applications. Its strengths include platform independence (“write once, run anywhere”), a mature ecosystem (Spring, Hibernate), strong concurrency support, and long-term stability. The latest version in 2025 is JDK 25 (LTS). Java’s drawbacks include higher memory usage, slower startup times, and more verbose syntax compared to languages like Python.
+
+Python
+
+Python is an interpreted, dynamically typed language known for its readability and ease of use. Unlike C# and Java, Python’s default implementation (CPython) compiles code to bytecode but executes it through an interpreter rather than a JIT compiler, making it slower for CPU-intensive tasks. Python is extremely popular in data science, artificial intelligence, scripting, automation, and rapid prototyping. Its main advantages are simplicity, a huge ecosystem of libraries (NumPy, Pandas, TensorFlow), and very fast development time. The latest stable version in 2025 is Python 3.14. Python’s downsides include lower execution speed, limited multithreading due to the GIL, and weaker type safety because errors are often caught only at runtime.
+
+Overall Comparison
+
+C# and Java are both fast, compiled, statically typed languages used heavily in enterprise back-end development, while Python is slower but excels in readability, fast development, and data science. C# fits best within the Microsoft ecosystem and game development; Java fits best in large-scale cross-platform enterprise systems; and Python is ideal for AI, automation, and beginner-friendly software development.
